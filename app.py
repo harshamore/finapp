@@ -227,15 +227,4 @@ with col2:
 st.markdown("---")
 st.caption("""
 **Note:** This application uses OpenAI's API to analyze financial statements. 
-The API key is stored securely in Streamlit secrets. For deployment, ensure you 
-set the `openai_api_key` in your Streamlit secrets configuration.
 """)
-
-
-# requirements.txt contents:
-"""
-streamlit>=1.22.0
-openai>=1.0.0
-PyPDF2>=3.0.0
-pandas>=1.3.0
-"""
