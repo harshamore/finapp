@@ -39,6 +39,7 @@ categories = {
         "name": "Basic Validation",
         "description": "All validation questions",
         "questions": [
+            "Is the reconcilation of number of equity shares declared and addressed in notes?",
             "Check if all the Notes mentioned in the Financial Statement have been described cearly in Notes OR has a matching notes section?",
             "First determine if this report follows Division 1 or Division 2 (IND AS) standards? Division 2 (IND AS) applies to any listed company OR any unlisted company with net worth > 250 crores for the last 3 financial years. Refer to https://ca2013.com/section-257-net-worth/ for calculating net worth.",
             "Does the Balance Sheet follow the prescribed format with 'Equity and Liabilities' and 'Assets' as the main sections?",
