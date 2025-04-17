@@ -39,7 +39,7 @@ categories = {
         "name": "Basic Validation",
         "description": "All validation questions",
         "questions": [
-            "Are all notes are rightly cross referenced with the main financials? Check for each one of them, do not assume?",
+            "Are all notes are rightly cross referenced with the main financials and they described in detail under Notes? Check for each one of them, do not assume?",
             "Is the reconcilation of number of equity shares declared and addressed in notes?",
             "Check if all the Notes mentioned in the Financial Statement have been described cearly in Notes OR has a matching notes section?",
             "First determine if this report follows Division 1 or Division 2 (IND AS) standards? Division 2 (IND AS) applies to any listed company OR any unlisted company with net worth > 250 crores for the last 3 financial years. Refer to https://ca2013.com/section-257-net-worth/ for calculating net worth.",
