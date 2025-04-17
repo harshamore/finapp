@@ -116,7 +116,7 @@ def analyze_with_openai(pdf_text, question):
             messages=[
                 {
                     "role": "system",
-                    "content": "You are a financial expert analyzing financial statements. Examine the content from the PDF carefully and provide a detailed answer to the question."
+                    "content": "You are a financial expert analyzing financial statements. Examine the content from the PDF carefully and provide a detailed answer to the question. Also identify if there needs to be any improvement?"
                 },
                 {
                     "role": "user",
