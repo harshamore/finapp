@@ -119,7 +119,7 @@ def analyze_with_openai(pdf_text, question):
             messages=[
                 {
                     "role": "system",
-                    "content": "You are a financial expert and an auditor analyzing financial statements, your goal is to find errors in the document. Examine the content from the PDF carefully and provide a detailed answer to the question. Also identify if there needs to be any improvement if needed."
+                    "content": "You are an Indian financial auditor analyzing financial statements, your goal is to find errors in the document so look for things that are missing and are needed to be included. Examine the content from the PDF carefully and provide a detailed answer to the question. Also identify if there needs to be any improvement if needed."
                 },
                 {
                     "role": "user",
